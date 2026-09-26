@@ -1,0 +1,8 @@
+{
+  "name": "wrap-up",
+  "description": "Close out a coding or debugging session by filing what was learned in the right place in the repo.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rubens"
+  }
+}

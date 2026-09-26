@@ -1,0 +1,18 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "Rubens"
+  },
+  "metadata": {
+    "description": "Rubens's public Agent Skills for Claude, one plugin per skill.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "wrap-up",
+      "source": "./plugins/wrap-up",
+      "description": "Close out a coding or debugging session by filing what was learned in the right place in the repo.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -40,3 +40,7 @@ scripts/publish.py --push      # copy, bump versions, commit, push
 ```
 
 The script refuses to publish a skill containing home paths, private IPs, keys, or credential-looking values (and runs `gitleaks` if installed). Versions bump automatically when a skill's content changes, so installed copies see the update.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
